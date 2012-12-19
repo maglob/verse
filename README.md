@@ -1,4 +1,4 @@
-verse
+Verse
 =====
 
 Simple 2D physics engine wrapped in a game (work in progress). Written in Common Lisp. OpenGL graphics.
